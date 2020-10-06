@@ -4,6 +4,8 @@
 ## Release / Update date
 **05/02/2020**
 
+After cloning the repo: `npm install`
+
 ## Description
 Write a function `anagram`, that **takes 2 strings** and **returns true** if they are anagrams of each other **or false** if they are not.
 
