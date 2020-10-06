@@ -28,7 +28,7 @@ anagram('Hello', '')
 
 ## Requirements
 - Pass all the tests
-- To run the tests: `mocha myFile.test.js`
+- To run the tests: `npm test`
 
 ## Author
 diogo@wildcodeschool.pt
